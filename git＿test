@@ -1,0 +1,4 @@
+$ mkdir git_test
+$ cd git_test
+$ touch index.html
+$ touch style.css
